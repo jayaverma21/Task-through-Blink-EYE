@@ -8,8 +8,10 @@ This Python script detects eyes using OpenCV's Haar cascades and automates tasks
 
 # Setup
 + Install Python 3.x from python.org.
-+ Install required dependencies: -  ```pip install opencv-python pyautogui```
-
++ Install required dependencies:
+    ```bash
+    python face_background_blur.py
+    ```
 
 # Usage
 + Run the script eye_detection.py.
